@@ -44,6 +44,9 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ![Screenshot 2025-05-05 144303](https://github.com/user-attachments/assets/a4bf99a0-f8d4-4150-8016-99b0038f016a)
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
+### Mirror Adder:
+![Screenshot 2025-05-10 143444](https://github.com/user-attachments/assets/14c20cee-6470-43fb-82de-6c4405c007fe)
+
 
 
 
@@ -52,6 +55,11 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ![Screenshot 2025-04-11 142904](https://github.com/user-attachments/assets/dc5a3489-8b68-427e-adb9-c71cee1367a4)
 ![Screenshot 2025-05-05 144316](https://github.com/user-attachments/assets/65a29adc-d6d0-4a3a-b295-285de1a4592f)
 ![Screenshot 2025-05-05 144251](https://github.com/user-attachments/assets/14a9ebe7-ae6a-4245-9b66-82d6e727b75a)
+### Mirror Adder Output:
+![Screenshot 2025-05-10 143421](https://github.com/user-attachments/assets/0d4901ca-ccd9-4b85-a464-a4968005ea43)
+![Screenshot 2025-05-10 143357](https://github.com/user-attachments/assets/af21ed8b-f352-40c6-b253-d1b6c367d715)
+
+
 
 
 ## Results
